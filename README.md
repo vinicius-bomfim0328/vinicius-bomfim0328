@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Oi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">,sou o Vinicius </h1>
-<h4 align="center">Sou estudante de engenharia da computação e atulamente sou analista de sistemas</h4>
+<h4 align="center">Sou um analista de sistemas que desenvolve principalmente em php, uso laravel + vue.js</h4>
 </div>
 
 <div align="center">
